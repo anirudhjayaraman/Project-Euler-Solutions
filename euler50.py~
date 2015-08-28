@@ -31,7 +31,7 @@ for i in range(len(primes_subset)):
             index = i
 
 # Print out sum of consecutive primes till 'index', index, n 
-# print primes_sum, index, n
+print primes_sum, index, n
 
 # Check consecutive primes within a range (index to n) such that their number is greater than index and maximum
 j = index + 1
