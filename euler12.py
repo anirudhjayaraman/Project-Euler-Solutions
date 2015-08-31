@@ -4,7 +4,7 @@
 from math import *
 from primesieve import *
 
-# Function to calculate divisors
+# Function to calculate number of divisors of an integer n
 def divisors(n):
     limit = int(sqrt(n))
     divisors_list = []
