@@ -11,4 +11,4 @@ for i in array:
 
 # Sum up the array and print the first 10 numbers of the sum as a string
 arraySum = sum(newArray)
-print str(arraySum)[:10] 
+print str(arraySum)[:10]
