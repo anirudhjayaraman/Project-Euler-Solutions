@@ -3,7 +3,11 @@
 
 from math import *
 
+<<<<<<< HEAD
 # Function to calculate the number of divisors of integer n
+=======
+# Function to calculate number of divisors of an integer n
+>>>>>>> ab70433b8c5e922c23425db0243137cb2afb1b03
 def divisors(n):
     limit = int(sqrt(n))
     divisors_list = []
